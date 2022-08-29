@@ -2,16 +2,32 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 25 Aug 2022 21:25:11 GMT
+  Generated on Mon, 29 Aug 2022 16:42:50 GMT
 -->
 <resources>
-  <color name="color_base_gray_light">#ffcccccc</color>
-  <color name="color_base_gray_medium">#ff999999</color>
-  <color name="color_base_gray_dark">#ff111111</color>
-  <color name="color_base_red">#ffff0000</color>
-  <color name="color_base_green">#ff00ff00</color>
-  <color name="color_font_base">#ffff0000</color>
-  <color name="color_font_secondary">#ff00ff00</color>
-  <color name="color_font_tertiary">#ffcccccc</color>
+  <color name="color_red_red_5">#fff9eeee</color>
+  <color name="color_red_red_10">#fff8e1de</color>
+  <color name="color_red_red_30">#fff2938c</color>
+  <color name="color_red_red_40">#ffe9695f</color>
+  <color name="color_red_red_50">#ffd83933</color>
+  <color name="color_red_red_60">#ffa23737</color>
+  <color name="color_red_red_70">#ff6f3331</color>
+  <color name="color_red_red_80">#ff3e2927</color>
+  <color name="color_red_red_90">#ff1b1616</color>
+  <color name="color_red_vivid_red_5v">#fffff3f2</color>
+  <color name="color_red_vivid_red_10v">#fffde0db</color>
+  <color name="color_red_vivid_red_20v">#ff4b4b4b</color>
+  <color name="color_red_vivid_red_30v">#ffff8d7b</color>
+  <color name="color_red_vivid_red_40v">#fffb5a47</color>
+  <color name="color_red_vivid_red_50v">#ffe52207</color>
+  <color name="color_red_vivid_red_60v">#ff000000</color>
+  <color name="color_red_vivid_red_70v">#ff8b0a03</color>
+  <color name="color_red_vivid_red_80v">#ff5c1111</color>
+  <color name="color_blue_blue_10">#ffd9e8f6</color>
+  <color name="color_blue_blue_30">#ff73b3e7</color>
+  <color name="color_blue_vivid_blue_60v">#ff005ea2</color>
+  <color name="color_red_warm_vivid_red_warm_30v">#fff39268</color>
+  <color name="color_red_warm_vivid_red_warm_50v">#ffd54309</color>
+  <color name="color_red_warm_red_10">#fff4e3db</color>
   
 </resources>

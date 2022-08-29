@@ -4,20 +4,36 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 25 Aug 2022 21:25:11 GMT
+// Generated on Mon, 29 Aug 2022 16:42:50 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorBaseGrayLight,
-ColorBaseGrayMedium,
-ColorBaseGrayDark,
-ColorBaseRed,
-ColorBaseGreen,
-ColorFontBase,
-ColorFontSecondary,
-ColorFontTertiary
+ColorRedRed5,
+ColorRedRed10,
+ColorRedRed30,
+ColorRedRed40,
+ColorRedRed50,
+ColorRedRed60,
+ColorRedRed70,
+ColorRedRed80,
+ColorRedRed90,
+ColorRedVividRed5v,
+ColorRedVividRed10v,
+ColorRedVividRed20v,
+ColorRedVividRed30v,
+ColorRedVividRed40v,
+ColorRedVividRed50v,
+ColorRedVividRed60v,
+ColorRedVividRed70v,
+ColorRedVividRed80v,
+ColorBlueBlue10,
+ColorBlueBlue30,
+ColorBlueVividBlue60v,
+ColorRedWarmVividRedWarm30v,
+ColorRedWarmVividRedWarm50v,
+ColorRedWarmRed10
 };
 
 @interface StyleDictionaryColor : NSObject
