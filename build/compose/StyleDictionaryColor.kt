@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Mon, 29 Aug 2022 16:42:50 GMT
+// Generated on Tue, 30 Aug 2022 02:42:45 GMT
 
 
 
@@ -18,7 +18,7 @@ object StyleDictionaryColor {
   val colorRedRed10 = Color(0xfff8e1de)
   val colorRedRed30 = Color(0xfff2938c)
   val colorRedRed40 = Color(0xffe9695f)
-  val colorRedRed5 = Color(0xfff9eeee)
+  val colorRedRed5 = Color(0xff000000)
   val colorRedRed50 = Color(0xffd83933)
   val colorRedRed60 = Color(0xffa23737)
   val colorRedRed70 = Color(0xff6f3331)

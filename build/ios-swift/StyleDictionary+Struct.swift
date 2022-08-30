@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Aug 2022 16:42:50 GMT
+// Generated on Tue, 30 Aug 2022 02:42:45 GMT
 
 
 import UIKit
@@ -19,7 +19,7 @@ internal struct StyleDictionaryStruct {
     internal static let colorRedRed10 = UIColor(red: 0.973, green: 0.882, blue: 0.871, alpha: 1)
     internal static let colorRedRed30 = UIColor(red: 0.949, green: 0.576, blue: 0.549, alpha: 1)
     internal static let colorRedRed40 = UIColor(red: 0.914, green: 0.412, blue: 0.373, alpha: 1)
-    internal static let colorRedRed5 = UIColor(red: 0.976, green: 0.933, blue: 0.933, alpha: 1)
+    internal static let colorRedRed5 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     internal static let colorRedRed50 = UIColor(red: 0.847, green: 0.224, blue: 0.200, alpha: 1)
     internal static let colorRedRed60 = UIColor(red: 0.635, green: 0.216, blue: 0.216, alpha: 1)
     internal static let colorRedRed70 = UIColor(red: 0.435, green: 0.200, blue: 0.192, alpha: 1)
@@ -39,6 +39,10 @@ internal struct StyleDictionaryStruct {
     internal static let colorRedWarmVividRedWarm50v = UIColor(red: 0.835, green: 0.263, blue: 0.035, alpha: 1)
     internal static let medium = 32 * 1.5
     internal static let primary = #4122bf
+    internal static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
+    internal static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
+    internal static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */
+    internal static let sizeFontSmall = CGFloat(12.00) /* the small size of the font */
     internal static let small = 32
     internal static let themePrimaryLighter = #d9e8f6
     internal static let xbig = 32 * 1.5 * 2*3

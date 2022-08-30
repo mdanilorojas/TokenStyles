@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Aug 2022 16:42:50 GMT
+// Generated on Tue, 30 Aug 2022 02:42:45 GMT
 
 
 import UIKit
@@ -16,7 +16,7 @@ public enum StyleDictionaryColor {
     public static let redRed10 = UIColor(red: 0.973, green: 0.882, blue: 0.871, alpha: 1)
     public static let redRed30 = UIColor(red: 0.949, green: 0.576, blue: 0.549, alpha: 1)
     public static let redRed40 = UIColor(red: 0.914, green: 0.412, blue: 0.373, alpha: 1)
-    public static let redRed5 = UIColor(red: 0.976, green: 0.933, blue: 0.933, alpha: 1)
+    public static let redRed5 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let redRed50 = UIColor(red: 0.847, green: 0.224, blue: 0.200, alpha: 1)
     public static let redRed60 = UIColor(red: 0.635, green: 0.216, blue: 0.216, alpha: 1)
     public static let redRed70 = UIColor(red: 0.435, green: 0.200, blue: 0.192, alpha: 1)

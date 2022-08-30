@@ -2,10 +2,10 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 29 Aug 2022 16:42:50 GMT
+  Generated on Tue, 30 Aug 2022 02:42:45 GMT
 -->
 <resources>
-  <color name="color_red_red_5">#fff9eeee</color>
+  <color name="color_red_red_5">#ff000000</color>
   <color name="color_red_red_10">#fff8e1de</color>
   <color name="color_red_red_30">#fff2938c</color>
   <color name="color_red_red_40">#ffe9695f</color>
